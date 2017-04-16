@@ -1,6 +1,6 @@
 # ChangeDistillerWrapper
 
-## What is Change Distiller Wrapper:
+### What is Change Distiller Wrapper:
 ##### Change Distiller Wrapper as the name suggests is a tool that wraps around the functionality provided by Change Distiller.
 ##### On a quick note, Change distiller takes in two files and compares them and provides different file level metrics. More information can be founf at:
 (https://bitbucket.org/sealuzh/tools-changedistiller/wiki/Home). 
