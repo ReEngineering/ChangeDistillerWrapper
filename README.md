@@ -16,4 +16,6 @@
 ##### 6. Pass the .git file path of local repository as input
 ##### 7. Once the execution is complete an output file containing changes of made to the files for a particular revision will be stored in a csv file with name same as project name.
 
-##### The credits for the tool Change Distiller go to the original creator. As mentioned above, this tool uses change distiller and JGit to provide results at a different level
+##### The credits for the tool Change Distiller go to the original creator. As mentioned above, this tool uses change distiller at some part of the execution along with JGit to provide results at a different level.
+
+##### Please feel free to use this code for your own research. We extend our sincere thanks to all the folks on stackoverflow and other open source forums who helped us build this tool.
