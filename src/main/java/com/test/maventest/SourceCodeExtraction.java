@@ -74,10 +74,8 @@ public class SourceCodeExtraction
 		new File("./prevFile").mkdir();
 		CSVReader.csvReader(projName,repo,git);
 	ChangeDistiller.test(projName);
-deleteDirectory("./newFile");	
-System.out.println("newFile deleted");
+deleteDirectory("./newFile");
 deleteDirectory("./prevFile");
-System.out.println("prevFile deleted");
 	}
 	public static void deleteDirectory(String directoryFilePath) throws IOException
 	{
